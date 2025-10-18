@@ -1,0 +1,22 @@
+input
+Team_1  Team_2  Winner
+-----------------------
+India   SL      India
+SL      Aus     Aus
+SA      Eng     Eng
+Eng     NZ      NZ
+Aus     India   India
+
+
+This is the input table and we need to convert it into a points table
+containing team name, total matches played, total no of wins and total no of losess
+
+output
+Team_name  Total_matches  total_wins  total_loses
+-------------------------------------------------
+Aus        2              1           1
+Eng        2              1           1
+India      2              2           0
+SL         2              0           2
+NZ         1              1           0
+SA         1              0           1
